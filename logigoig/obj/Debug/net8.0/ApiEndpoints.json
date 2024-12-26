@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "logigoig.Controllers.LogController",
+    "Method": "LogAction",
+    "RelativePath": "api/Log/log",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "logEntry",
+        "Type": "logigoig.LogEntry",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
